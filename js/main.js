@@ -1,5 +1,5 @@
 $(document).ready(function() {
-var startDate = new Date(2021, 00, 01);
+var startDate = new Date(2024, 03, 01);
 var currentDate = new Date();
 
 var timeDiff = (Math.abs(currentDate - startDate))/(1000*3600*24*30);
